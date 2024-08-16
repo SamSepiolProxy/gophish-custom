@@ -1,4 +1,4 @@
-module github.com/SamSepiolProxy/gophish-custom
+module github.com/gophish/gophish
 
 go 1.13
 
